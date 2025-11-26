@@ -1213,11 +1213,8 @@ static void MX_GPIO_Init(void)
 void StartDefaultTask(void *argument)
 {
   /* USER CODE BEGIN 5 */
-  /* Infinite loop */
-  for(;;)
-  {
-    osDelay(1);
-  }
+	extern void cppMain(void);
+	cppMain();
   /* USER CODE END 5 */
 }
 
