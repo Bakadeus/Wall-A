@@ -1,0 +1,7 @@
+../DriversCustom/Power/PowerManager.cpp:15:6:static void DriversCustom::Power::PowerManager::init()	1
+../DriversCustom/Power/PowerManager.cpp:20:7:static float DriversCustom::Power::PowerManager::read5V()	1
+../DriversCustom/Power/PowerManager.cpp:25:7:static float DriversCustom::Power::PowerManager::read12V()	1
+../DriversCustom/Power/PowerManager.cpp:29:7:static float DriversCustom::Power::PowerManager::read24V()	1
+../DriversCustom/Power/PowerManager.cpp:33:6:static bool DriversCustom::Power::PowerManager::is5Vok(float)	1
+../DriversCustom/Power/PowerManager.cpp:37:6:static bool DriversCustom::Power::PowerManager::is12Vok(float)	1
+../DriversCustom/Power/PowerManager.cpp:41:6:static bool DriversCustom::Power::PowerManager::is24Vok(float)	1

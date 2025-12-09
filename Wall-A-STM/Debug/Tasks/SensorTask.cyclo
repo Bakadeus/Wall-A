@@ -1,0 +1,2 @@
+../Tasks/SensorTask.cpp:19:6:static void Tasks::SensorTask::create()	1
+../Tasks/SensorTask.cpp:27:6:static void Tasks::SensorTask::threadFunc(void*)	1

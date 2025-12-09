@@ -1,0 +1,4 @@
+../DriversCustom/Motor/Drv8262.cpp:15:6:void DriversCustom::Motor::Drv8262::init()	1
+../DriversCustom/Motor/Drv8262.cpp:27:6:void DriversCustom::Motor::Drv8262::setLeftDuty(float)	1
+../DriversCustom/Motor/Drv8262.cpp:32:6:void DriversCustom::Motor::Drv8262::setRightDuty(float)	1
+../DriversCustom/Motor/Drv8262.cpp:37:6:void DriversCustom::Motor::Drv8262::enable(bool)	1

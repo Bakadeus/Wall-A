@@ -1,0 +1,2 @@
+../DriversCustom/Distance/PololuIR.cpp:14:6:void DriversCustom::Distance::PololuIR::init()	1
+../DriversCustom/Distance/PololuIR.cpp:18:7:float DriversCustom::Distance::PololuIR::readMeters()	1

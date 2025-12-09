@@ -1,0 +1,2 @@
+../Tasks/CommunicationTask.cpp:16:6:static void Tasks::CommunicationTask::create()	1
+../Tasks/CommunicationTask.cpp:24:6:static void Tasks::CommunicationTask::threadFunc(void*)	1

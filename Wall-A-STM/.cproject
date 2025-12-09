@@ -41,6 +41,17 @@
 									<listOptionValue builtIn="false" value="../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F"/>
 									<listOptionValue builtIn="false" value="../Drivers/CMSIS/Device/ST/STM32F4xx/Include"/>
 									<listOptionValue builtIn="false" value="../Drivers/CMSIS/Include"/>
+									<listOptionValue builtIn="false" value="../App"/>
+									<listOptionValue builtIn="false" value="../Tasks"/>
+									<listOptionValue builtIn="false" value="../DriversCustom/Motor"/>
+									<listOptionValue builtIn="false" value="../DriversCustom/Encoder"/>
+									<listOptionValue builtIn="false" value="../DriversCustom/PwmServo"/>
+									<listOptionValue builtIn="false" value="../DriversCustom/Distance"/>
+									<listOptionValue builtIn="false" value="../DriversCustom/Power"/>
+									<listOptionValue builtIn="false" value="../DriversCustom/Ax12"/>
+									<listOptionValue builtIn="false" value="../Libs/Utils"/>
+									<listOptionValue builtIn="false" value="../Libs/PID"/>
+									<listOptionValue builtIn="false" value="../Libs/Filters"/>
 								</option>
 								<inputType id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.assembler.input.1854947120" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.assembler.input"/>
 							</tool>
@@ -61,6 +72,17 @@
 									<listOptionValue builtIn="false" value="../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F"/>
 									<listOptionValue builtIn="false" value="../Drivers/CMSIS/Device/ST/STM32F4xx/Include"/>
 									<listOptionValue builtIn="false" value="../Drivers/CMSIS/Include"/>
+									<listOptionValue builtIn="false" value="../App"/>
+									<listOptionValue builtIn="false" value="../Tasks"/>
+									<listOptionValue builtIn="false" value="../DriversCustom/Motor"/>
+									<listOptionValue builtIn="false" value="../DriversCustom/Encoder"/>
+									<listOptionValue builtIn="false" value="../DriversCustom/PwmServo"/>
+									<listOptionValue builtIn="false" value="../DriversCustom/Distance"/>
+									<listOptionValue builtIn="false" value="../DriversCustom/Power"/>
+									<listOptionValue builtIn="false" value="../DriversCustom/Ax12"/>
+									<listOptionValue builtIn="false" value="../Libs/Utils"/>
+									<listOptionValue builtIn="false" value="../Libs/PID"/>
+									<listOptionValue builtIn="false" value="../Libs/Filters"/>
 								</option>
 								<inputType id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.input.c.445565759" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.input.c"/>
 							</tool>
@@ -81,6 +103,17 @@
 									<listOptionValue builtIn="false" value="../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F"/>
 									<listOptionValue builtIn="false" value="../Drivers/CMSIS/Device/ST/STM32F4xx/Include"/>
 									<listOptionValue builtIn="false" value="../Drivers/CMSIS/Include"/>
+									<listOptionValue builtIn="false" value="../App"/>
+									<listOptionValue builtIn="false" value="../Tasks"/>
+									<listOptionValue builtIn="false" value="../DriversCustom/Motor"/>
+									<listOptionValue builtIn="false" value="../DriversCustom/Encoder"/>
+									<listOptionValue builtIn="false" value="../DriversCustom/PwmServo"/>
+									<listOptionValue builtIn="false" value="../DriversCustom/Distance"/>
+									<listOptionValue builtIn="false" value="../DriversCustom/Power"/>
+									<listOptionValue builtIn="false" value="../DriversCustom/Ax12"/>
+									<listOptionValue builtIn="false" value="../Libs/Utils"/>
+									<listOptionValue builtIn="false" value="../Libs/PID"/>
+									<listOptionValue builtIn="false" value="../Libs/Filters"/>
 								</option>
 								<inputType id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.input.cpp.2037874683" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.input.cpp"/>
 							</tool>
@@ -104,9 +137,13 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="App"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Core"/>
+						<entry excluding="Motor" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Drivers"/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="DriversCustom"/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Libs"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Middlewares"/>
-						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Drivers"/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Tasks"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -209,9 +246,13 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="App"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Core"/>
+						<entry excluding="Motor" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Drivers"/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="DriversCustom"/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Libs"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Middlewares"/>
-						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Drivers"/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Tasks"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>

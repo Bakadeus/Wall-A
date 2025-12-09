@@ -1,0 +1,2 @@
+../Tasks/ControlTask.cpp:16:6:static void Tasks::ControlTask::create()	1
+../Tasks/ControlTask.cpp:24:6:static void Tasks::ControlTask::threadFunc(void*)	1

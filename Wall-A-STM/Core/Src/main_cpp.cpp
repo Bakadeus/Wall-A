@@ -11,7 +11,9 @@ extern "C" {
 }
 
 #include <iostream>
+#include "Wall-A_App.hpp"
 
 extern "C" void cppMain() {
 	std::cout << "Hello from C++17 main!" << std::endl;
+	WallAApp_Init();
 }

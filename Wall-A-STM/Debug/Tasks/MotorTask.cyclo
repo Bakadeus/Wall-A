@@ -1,0 +1,5 @@
+../Tasks/MotorTask.cpp:24:6:static void Tasks::MotorTask::create()	1
+../Tasks/MotorTask.cpp:36:6:static void Tasks::MotorTask::start()	1
+../Tasks/MotorTask.cpp:46:6:static void Tasks::MotorTask::threadFunc(void*)	2
+../Tasks/MotorTask.cpp:69:1:void __static_initialization_and_destruction_0()	1
+../Tasks/MotorTask.cpp:69:1:cpp)	1

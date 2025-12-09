@@ -1,0 +1,4 @@
+../DriversCustom/Ax12/Ax12.cpp:15:6:void DriversCustom::Ax12::Ax12::init()	1
+../DriversCustom/Ax12/Ax12.cpp:20:6:bool DriversCustom::Ax12::Ax12::ping(uint8_t)	1
+../DriversCustom/Ax12/Ax12.cpp:26:6:bool DriversCustom::Ax12::Ax12::write(uint8_t, uint8_t, const std::vector<unsigned char>&)	1
+../DriversCustom/Ax12/Ax12.cpp:32:6:bool DriversCustom::Ax12::Ax12::read(uint8_t, uint8_t, uint8_t, std::vector<unsigned char>&)	1

@@ -1,0 +1,3 @@
+../App/StateMachine.cpp:15:6:static void App::StateMachine::init()	1
+../App/StateMachine.cpp:20:6:static void App::StateMachine::setState(App::RobotState)	1
+../App/StateMachine.cpp:26:12:static App::RobotState App::StateMachine::getState()	1

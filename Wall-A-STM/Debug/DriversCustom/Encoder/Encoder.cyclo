@@ -1,0 +1,4 @@
+../DriversCustom/Encoder/Encoder.cpp:15:6:void DriversCustom::Encoder::Encoder::init()	1
+../DriversCustom/Encoder/Encoder.cpp:21:9:int32_t DriversCustom::Encoder::Encoder::read()	1
+../DriversCustom/Encoder/Encoder.cpp:27:6:void DriversCustom::Encoder::Encoder::reset()	1
+../DriversCustom/Encoder/Encoder.cpp:32:6:void DriversCustom::Encoder::Encoder::isrNotify()	1

@@ -1,0 +1,3 @@
+../App/Wall-A_App.cpp:16:17:void WallAApp_Init()	1
+../App/Wall-A_App.cpp:22:6:static void App::WallAApp::init()	1
+../App/Wall-A_App.cpp:35:6:static void App::WallAApp::shutdown()	1
