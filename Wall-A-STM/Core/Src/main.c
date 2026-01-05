@@ -205,7 +205,6 @@ int main(void)
   while (1)
   {
     /* USER CODE END WHILE */
-
     /* USER CODE BEGIN 3 */
   }
   /* USER CODE END 3 */
@@ -1213,8 +1212,9 @@ static void MX_GPIO_Init(void)
 void StartDefaultTask(void *argument)
 {
   /* USER CODE BEGIN 5 */
-    extern void cppMain(void);
-    cppMain();
+
+  extern void cppMain(void);
+  cppMain();
   /* USER CODE END 5 */
 }
 

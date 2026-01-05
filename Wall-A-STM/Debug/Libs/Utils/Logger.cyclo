@@ -1,5 +1,5 @@
-../Libs/Utils/Logger.cpp:16:6:static void Libs::Utils::Logger::init()	1
-../Libs/Utils/Logger.cpp:20:13:void Libs::Utils::vprint(const char*, const char*, va_list)	1
-../Libs/Utils/Logger.cpp:26:6:)	1
-../Libs/Utils/Logger.cpp:32:6:)	1
-../Libs/Utils/Logger.cpp:38:6:)	1
+../Libs/Utils/Logger.cpp:22:6:static void Libs::Utils::Logger::init()	1
+../Libs/Utils/Logger.cpp:26:13:void Libs::Utils::vprint(const char*, const char*, va_list)	4
+../Libs/Utils/Logger.cpp:56:6:)	1
+../Libs/Utils/Logger.cpp:64:6:)	1
+../Libs/Utils/Logger.cpp:72:6:)	1

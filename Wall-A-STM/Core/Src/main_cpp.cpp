@@ -10,10 +10,12 @@ extern "C" {
 	#include "cmsis_os.h"
 }
 
+extern UART_HandleTypeDef huart1;
+
 #include <iostream>
+#include <cstring>
 #include "Wall-A_App.hpp"
 
 extern "C" void cppMain() {
-	std::cout << "Hello from C++17 main!" << std::endl;
 	WallAApp_Init();
 }
